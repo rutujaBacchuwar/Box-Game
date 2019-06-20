@@ -1,0 +1,80 @@
+{
+  "players": [
+    {
+      "name": "Roopali",
+      "score": 230,
+      "id": 1
+    },
+    {
+      "name": "farhaan",
+      "score": 265,
+      "id": 2
+    },
+    {
+      "name": "Soubi",
+      "score": 275,
+      "id": 3
+    },
+    {
+      "name": "foo",
+      "score": 265,
+      "id": 4
+    },
+    {
+      "name": "yash",
+      "score": 205,
+      "id": 5
+    },
+    {
+      "name": "foo",
+      "score": 0,
+      "id": 6
+    },
+    {
+      "name": "foo",
+      "score": 0,
+      "id": 7
+    },
+    {
+      "name": "foo",
+      "score": 40,
+      "id": 8
+    },
+    {
+      "name": "foo",
+      "score": 40,
+      "id": 9
+    },
+    {
+      "name": "foo",
+      "score": 65,
+      "id": 10
+    },
+    {
+      "name": "gfhg",
+      "score": 0,
+      "id": 11
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "value": "don",
+      "id": 2
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
